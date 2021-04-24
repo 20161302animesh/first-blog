@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Incredibly crafted "The Dark Knight"
+title: The Dark Knight
 published: true
 tags: markdown Dark-Knight-Trilogy
 ---
