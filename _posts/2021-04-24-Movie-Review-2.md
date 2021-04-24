@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "The Dark Knight" - an incredibly crafted last venture
+published: true
+tags: markdown Dark-Knight-Trilogy
 ---
 
 ## Introduction
