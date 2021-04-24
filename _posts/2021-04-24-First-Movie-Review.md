@@ -5,9 +5,7 @@ published: true
 tags: markdown Dark-Knight-Trilogy
 ---
 
-## Introduction
-
-Christopher Nolan is regarded as one of the greatest filmmakers of the decade. He is known for his realistic take on Batman and Gotham has won awards for his mind-bending take on science-fiction. With films like Interstellar and Inception to his name and a penchant for compelling people to ``re-watch and rethink", he has already piqued the interest of the audience since his first outing in feature-length films in 1998.
+Christopher Nolan is regarded as one of the greatest filmmakers of the decade. With films like Interstellar and Inception to his name and a penchant for compelling people to ``re-watch and rethink", he has already piqued the interest of the audience since his first outing in feature-length films in 1998. But the real source of his success comes from giving the caped crusader the best film reboot of all times with "Batman Begins".
 
 ## Nolan the "independent"
 
